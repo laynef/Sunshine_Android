@@ -1,0 +1,35 @@
+{
+  "project_info": {
+    "project_number": "266316267809",
+    "project_id": "sunshine-32eba"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:266316267809:android:4606ae2f18568c79",
+        "android_client_info": {
+          "package_name": "com.example.laynefaler.sunshine"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBX2YzfSMoG2wsL8DU-unbpUU0YN9X-15Y"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
